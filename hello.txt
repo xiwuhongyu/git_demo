@@ -1,5 +1,5 @@
-hello git! Sec-2222,2222
-hello git! Thi-3333,3333
+hello git! Sec-2222
+hello git! Thi-3333
 hello git!
 hello git!
 hello git!
